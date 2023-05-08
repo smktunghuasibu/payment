@@ -10,10 +10,6 @@ Processes:
 Output(s):
 """
 
-# Do not modify the code in this file
-# Tests for problem 1
-# Payment system
-
 def main():
     pass # replace this line with all of your code
 
